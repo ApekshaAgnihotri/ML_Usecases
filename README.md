@@ -34,19 +34,17 @@ I learned:
 2. Performed **hypothesis testing, Stationarity Check using Dickey Fuller test  and  Seasonality Decomposition.**
 3. Explored **AIRMA model, ACF Plots and PACF plots**
 4. Defined following statistical terms based on real world dataset.
-    a. **Mean:** Representation of a group. Center value of a dataset/
-                 Preferred when data is symmetrical
-    b. **Median:** The middle value in an ordered list
-                 Preferred when data is skewed.
-    c. **Variance:** What are the ranges in the dataset. 
-                 Do we have skewed data or skinny ranges?
-    d. **Standard Deviation:** By how much the data is spreaded.
-    e. **Correlation:** How two things are related wrt each other. 
-                 Ranges from -1 to 1. -1 co related in opposite direction, 
-                 0 not correlated at all.
-- We can quantify the strength and type of relationship between observations and their lags.
-- Autocorrelation plots are also a commonly-used tool for checking randomness in a data set.
-
-Covariance:
-Two random variables are changing similarly. If one is increasing the other is also increasing. The same goes with lesser.
+    a. **Mean:** Representation of a group. Center value of a dataset. </br>
+                 Preferred when data is symmetrical </br>
+    b. **Median:** The middle value in an ordered list </br>
+                 Preferred when data is skewed. </br>
+    c. **Variance:** What are the ranges in the dataset. </br> 
+                 Do we have skewed data or skinny ranges? </br>
+    d. **Standard Deviation:** By how much the data is spreaded.</br>
+    e. **Correlation:** How two things are related wrt each other. </br>
+                 Ranges from -1 to 1. -1 co related in opposite direction, </br>
+                 0 not correlated at all.</br>
+    f. We can quantify the strength and type of relationship between observations and their lags.</br>
+    g. Autocorrelation plots are also a commonly-used tool for checking randomness in a data set.
+    h. **Covariance:** Two random variables are changing similarly. If one is increasing the other is also increasing. The same goes with lesser.
 
