@@ -49,3 +49,10 @@ I learned:
    <li> Autocorrelation plots are also a commonly-used tool for checking randomness in a data set. </li>
    <li> <b>Covariance:</b> Two random variables are changing similarly. If one is increasing the other is also increasing. The same goes with lesser.</li>
  </ul>
+ 
+ # Clustering - HistogramOrientedGradient Techique
+ The purpose of this project is to learn working with image data
+ <ul>
+   <li> Image Preprocessing:  Grayscale, Resize, and Rescale</li>
+   <li> Feature Extraction: HOG technique </li>
+   <li> Clustering: Kmean algorithms </li>
