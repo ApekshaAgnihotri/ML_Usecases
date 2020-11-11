@@ -1,4 +1,4 @@
-# Linear Regression - Ecommerce
+# LineaRegression - Ecommerce
 
 This notebook studies the dataset to determine if a company has to invest in Web development or App development. 
 The attributes considered to make this decision are:
@@ -12,7 +12,9 @@ Performed regression analysis and concluded:
 1. Membership time period has the highest impact on the sales.
 2. Company should invest more on mobile app developement than the web app development.
 
-# Classification - Disease Prediction
+
+
+# Classification - DiseasePrediction
 
 This notebook is focused on how to pre-process any text documents. 
 
@@ -21,4 +23,30 @@ This notebook is focused on how to pre-process any text documents.
 3. **Feature Extraction:** Implemented Bag Of words technique using Count Vectorizer and TF-IDF Vectorizer
 4. Understood the concept of **similarity and distances**. Implemented Cosine Similarity
 5. Implemented **Custom K-Nearest Neighbour** algorithm using cosine similarity
+6. Understood concept of Accuracy, Recall, precision and F1-score.
+
+# TimeSeriesAnalysis - AirPassenger
+
+The intend of this project is to understand Time Series Analysis. 
+I learned:
+
+1. Learned the concept of Stationarity, Trend, Seasonality, Cycles, Variations and Irregularities in a time series
+2. Performed **hypothesis testing, Stationarity Check using Dickey Fuller test  and  Seasonality Decomposition.**
+3. Explored **AIRMA model, ACF Plots and PACF plots**
+4. Defined following statistical terms based on real world dataset.
+    a. **Mean:** Representation of a group. Center value of a dataset/
+                 Preferred when data is symmetrical
+    b. **Median:** The middle value in an ordered list
+                 Preferred when data is skewed.
+    c. **Variance:** What are the ranges in the dataset. 
+                 Do we have skewed data or skinny ranges?
+    d. **Standard Deviation:** By how much the data is spreaded.
+    e. **Correlation:** How two things are related wrt each other. 
+                 Ranges from -1 to 1. -1 co related in opposite direction, 
+                 0 not correlated at all.
+- We can quantify the strength and type of relationship between observations and their lags.
+- Autocorrelation plots are also a commonly-used tool for checking randomness in a data set.
+
+Covariance:
+Two random variables are changing similarly. If one is increasing the other is also increasing. The same goes with lesser.
 
