@@ -1,4 +1,4 @@
-# LineaRegression - Ecommerce
+# Regression - Ecommerce
 
 This notebook studies the dataset to determine if a company has to invest in Web development or App development. 
 The attributes considered to make this decision are:
