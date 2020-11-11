@@ -35,17 +35,17 @@ I learned:
 3. Explored **AIRMA model, ACF Plots and PACF plots**
 4. Defined following statistical terms based on real world dataset.</br>
    <ul>
-   <li> <p> **Mean:** Representation of a group. Center value of a dataset. </br>
-                 Preferred when data is symmetrical </br> </p> </li>
-   <li> b. **Median:** The middle value in an ordered list </br>
+   <li> <b>Mean:</b> Representation of a group. Center value of a dataset. </br>
+                 Preferred when data is symmetrical </br>  </li>
+   <li> <b>Median:</b> The middle value in an ordered list </br>
                  Preferred when data is skewed. </br> </li>
-   <li> c. **Variance:** What are the ranges in the dataset. </br> 
+   <li> <b>Variance:</b> What are the ranges in the dataset. </br> 
                  Do we have skewed data or skinny ranges? </br> </li>
-   <li> d. **Standard Deviation:** By how much the data is spreaded.</br> </li>
-   <li> e. **Correlation:** How two things are related wrt each other. </br> 
+   <li> <b>Standard Deviation:</b> By how much the data is spreaded.</br> </li>
+   <li> <b>Correlation:</b> How two things are related wrt each other. </br> 
                  Ranges from -1 to 1. -1 co related in opposite direction, </br>
                  0 not correlated at all.</br> </li>
-   <li> f. We can quantify the strength and type of relationship between observations and their lags.</br> </li>
-   <li> g. Autocorrelation plots are also a commonly-used tool for checking randomness in a data set. </li>
-   <li> h. **Covariance:** Two random variables are changing similarly. If one is increasing the other is also increasing. The same goes with lesser.</li>
+   <li> We can quantify the strength and type of relationship between observations and their lags.</br> </li>
+   <li> Autocorrelation plots are also a commonly-used tool for checking randomness in a data set. </li>
+   <li> <b>Covariance:</b> Two random variables are changing similarly. If one is increasing the other is also increasing. The same goes with lesser.</li>
  </ul>
