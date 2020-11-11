@@ -35,8 +35,8 @@ I learned:
 3. Explored **AIRMA model, ACF Plots and PACF plots**
 4. Defined following statistical terms based on real world dataset.</br>
    <ul>
-   <li> a. **Mean:** Representation of a group. Center value of a dataset. </br>
-                 Preferred when data is symmetrical </br> </li>
+   <li> <p> **Mean:** Representation of a group. Center value of a dataset. </br>
+                 Preferred when data is symmetrical </br> </p> </li>
    <li> b. **Median:** The middle value in an ordered list </br>
                  Preferred when data is skewed. </br> </li>
    <li> c. **Variance:** What are the ranges in the dataset. </br> 
